@@ -1,0 +1,152 @@
+body {
+    font-family: montserrat, sans-serif;
+    position: absolute;
+    width: 1282px;
+    height: 1399px;
+    left: 0px;
+    top: 0px;background: #F5F7FA;
+}
+
+.main {
+    position: absolute;
+    width: 1200px;
+    height: 1319px;
+    left: 41px;
+    top: 41px;
+    background: #FFFFFF;
+    box-shadow: 5px 8.7px 20px rgba(0, 0, 0, 0.15);
+    
+}
+
+section{
+    position: absolute;
+    width: 830px;
+    height: 1320px;
+    left: 373px;
+    top: 0px;
+    background: #C4C4C4;
+}
+
+.main_information{
+    position: absolute;
+    padding: 55px 75px;
+
+}
+aside {
+    width: 373px;
+    height: 1319px;
+    padding-left: 53px;
+    left: 40px;
+    top: 41px;
+    background: #1E2939;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+aside h2{
+    
+    width: 132px;
+    height: 24px;
+    left: 53px;
+    
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+
+
+
+    color: #FFFFFF;
+}
+aside li{
+   color: #FF6B08;
+}
+aside li span {
+    color: #ffffff;
+}
+
+
+img {
+    margin-top: 40px;
+    width: 373px;
+    height: 357px;
+    margin-left: -53px;
+    top: 0px;
+}
+
+.main_name{
+   
+    width: 413px;
+    height: 214px;
+
+    
+}
+
+.main_name h1 {
+    font-size: 45px;
+    line-height: 21px;
+
+}
+
+.front {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 24px;
+    color: #000000;
+
+}
+.m11{
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+color: #595959;
+}
+
+.projects {
+    margin-top: 40px;
+}
+
+.main_information .name_1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+
+}
+
+.cl1 {
+    font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.48px;
+color: #FF6B08;
+}
+
+section ul {
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+    color: #595959;
+    left: -30px;
+
+}
+.time {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 8 px;
+    letter-spacing: 0.36px;
+    color: #A8A8A8;
+}
